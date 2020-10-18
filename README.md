@@ -4,7 +4,8 @@
 ## About:
 ## Simulation Software:
 ## Successful Delivery Rates:
-![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture11.JPG)
-![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture12.JPG)
+Image 1             |  Image 2
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture11.JPG)  |  ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture12.JPG)
 # Contact:
 Contact [arnavbalyan1@gmail.com](mailto:arnavbalyan1@gmail.com) for more info.
