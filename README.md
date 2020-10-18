@@ -4,7 +4,7 @@
 ## About:
 ## Simulation Software:
 ## Successful Delivery Rates:
-Image 1             |  Image 2
+Node Movement Simulation             |  Constructed Blockchain
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture11.JPG)  |  ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture12.JPG)
 # Contact:
