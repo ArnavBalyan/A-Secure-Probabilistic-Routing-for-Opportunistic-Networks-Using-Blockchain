@@ -1,7 +1,6 @@
 # A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain
 -By [Arnav Balyan](https://github.com/ArnavBalyan), Poonam Rani, [Pushpinder Pal Singh](https://github.com/pushpinderpalsingh), [Devesh Sangwan](https://github.com/deveshsangwan), Vibha Jain and Jyoti Shokeen.
 # Introduction:
-## About:
 With expanding applications of the opportunistic Internet of Things (IoT), there has been ever-increasing enthusiasm
 in integrating blockchain with the IoT for enhancing privacy
 and security. However, due to high resource consumption by
@@ -11,7 +10,9 @@ multiple copies of messages for communicating information from
 source to destination, which gives rise to two risky situations:
 communication overhead and network security. Therefore, this
 paper proposes a probabilistic-based blockchain algorithm for
-opportunistic IoT network. The algorithm presents a secure
+opportunistic IoT network. 
+## About:
+The algorithm presents a secure
 routing protocol based on the delivery predictability of messages
 by integrating blockchain to ensure security and privacy. The
 simulation results shows that our proposed protocol outperforms
