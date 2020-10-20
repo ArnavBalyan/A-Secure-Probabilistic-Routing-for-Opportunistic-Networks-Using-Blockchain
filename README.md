@@ -19,7 +19,7 @@ simulation results shows that our proposed protocol outperforms
 some traditional routing schemes like epidemic routing and
 PRoPHET (Probabilistic Routing Protocol using History of Encounters and Transitivity) routing with more secure transmission.
 ## Simulation Software:
-MATLAB-R2019a.
+ * MATLAB-R2019a.
 ## Successful Delivery Rates:
 Node Movement Simulation             |  Constructed Blockchain
 :-------------------------:|:-------------------------:
