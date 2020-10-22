@@ -20,7 +20,7 @@ some traditional routing schemes like epidemic routing and
 PRoPHET (Probabilistic Routing Protocol using History of Encounters and Transitivity) routing with more secure transmission.
 ## Simulation Software:
  * MATLAB-R2019a.
-## Successful Delivery Rates:
+## Delivery Rates:
 Node Movement Simulation             |  Constructed Blockchain
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/gif/sim1.gif)  |  ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture12.JPG)
