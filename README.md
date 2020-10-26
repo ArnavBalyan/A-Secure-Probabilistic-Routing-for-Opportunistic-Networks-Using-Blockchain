@@ -21,7 +21,7 @@ PRoPHET (Probabilistic Routing Protocol using History of Encounters and Transiti
 ## Simulation Software:
  * MATLAB-R2019a.
 ## Delivery Rates:
-Node Movement Simulation             |  Constructed Blockchain
+Node Movement Simulation             |  Sample Blockchain
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/gif/sim1.gif)  |  ![alt text](https://github.com/ArnavBalyan/A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain/blob/master/results/Capture12.JPG)
 # Contact:
