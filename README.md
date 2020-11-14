@@ -1,5 +1,5 @@
 # A-Secure-Probabilistic-Routing-for-Opportunistic-Networks-Using-Blockchain
--By [Arnav Balyan](https://github.com/ArnavBalyan), Poonam Rani, [Pushpinder Pal Singh](https://github.com/pushpinderpalsingh), [Devesh Sangwan](https://github.com/deveshsangwan), Vibha Jain and Jyoti Shokeen.
+-By [Arnav Balyan](https://github.com/ArnavBalyan), [Pushpinder Pal Singh](https://github.com/pushpinderpalsingh), [Devesh Sangwan](https://github.com/deveshsangwan), Poonam Rani, Vibha Jain and Jyoti Shokeen.
 # Introduction:
 With expanding applications of the opportunistic Internet of Things (IoT), there has been ever-increasing enthusiasm
 in integrating blockchain with the IoT for enhancing privacy
