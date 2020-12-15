@@ -1,7 +1,6 @@
 % Inputs (in appearance order) : 
 % - alpha
 % - node_config
-% - grid_size
 % - v_rwp
 % - t_rwp
 % - v_zone
